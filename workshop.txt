@@ -1,2 +1,3 @@
 Sign up page
 sign in page
+logout page
